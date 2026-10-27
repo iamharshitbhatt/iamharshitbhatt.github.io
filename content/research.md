@@ -11,6 +11,8 @@ My research is broadly concerned with **topics here**. I am especially intereste
 
 ### Numerical linear algebra
 
+Experiment!!!!
+
 I study algorithms for low-rank approximation, matrix compression, randomized linear algebra, and structured matrix computations. Typical questions include how to discover numerical rank adaptively, how to control approximation error, and how to design algorithms around matrix-vector products rather than explicit matrix entries.
 
 ### Scientific computing
