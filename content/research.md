@@ -2,7 +2,7 @@
 title: "Research"
 weight: 10
 description: "Research directions, methods, and current interests."
-toc: true
+toc: false
 ---
 
 My research is broadly concerned with **topics here**. I am especially interested in ...
